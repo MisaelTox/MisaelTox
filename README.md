@@ -1,10 +1,58 @@
-<h1 align="center">Hi 👋, I'm Misael and I'm Cloud Engineer</h1>
-<h3 align="left">Sociology graduate from Universidad Autónoma Metropolitana with experience in digital marketing agencies in Mexico City, now transitioning into cloud technologies. Skilled in Python, AWS, Docker, SQL, and Linux CLI, with a strong focus on collaborative problem-solving and operational efficiency. Seeking a role where I can apply my AWS expertise to manage, monitor, and optimize cloud environments.</h3>
-<p align="left">
+<h1 align="center">☁️ Hi, I'm Misael — Cloud Engineer ☁️</h1>
+
+<p align="center">
+🎓 Sociology graduate from <strong>Metropolitan Autonomous University (UAM)</strong><br>
+💼 Former digital marketing professional, now specializing in <strong>Cloud Infrastructure</strong> and <strong>Automation</strong>.<br>
+🔧 Focused on scalable, secure, and cost-efficient solutions in AWS environments.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=misaeltox&show_icons=true&locale=en&layout=compact" alt="misaeltox" /></p>
+### 🧠 Technical Focus
+- ☁️ **Cloud Computing (AWS):** EC2, S3, IAM, RDS, CloudWatch  
+- 🧩 **Infrastructure as Code:** Terraform, AWS CDK  
+- 🐳 **Containers & DevOps:** Docker, CI/CD fundamentals  
+- 🐍 **Programming:** Python for automation and data handling  
+- 💾 **Databases:** SQL / SQLite  
+- 💻 **Systems:** Linux CLI
 
+---
+
+<p align="center">
+⚙️ Tech Stack
+<p align="center">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+</p>
+</p>
+
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisaelTox&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MisaelTox&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
+</p>
+
+---
+
+### 🌐 Connect with Me
+<p align="left">
+  </a>
+  &nbsp;
+  <a href="mailto:misaeltoxcatl@gmail.com" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="30" width="30" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <em>“Infrastructure as Code isn’t just automation — it’s reproducibility, reliability, and learning in motion.”</em>
+</p>
