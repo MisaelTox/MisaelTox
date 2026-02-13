@@ -1,58 +1,57 @@
-<h1 align="center">☁️ Hi, I'm Misael — Cloud Engineer ☁️</h1>
+# ☁️ Hi, I'm Misael — Cloud Engineer
 
-<p align="center">
-🎓 Sociology graduate from <strong>Metropolitan Autonomous University (UAM)</strong><br>
-💼 Former digital marketing professional, now specializing in <strong>Cloud Infrastructure</strong> and <strong>Automation</strong>.<br>
-🔧 Focused on scalable, secure, and cost-efficient solutions in AWS environments.
-</p>
+🎓 Sociology graduate turned Cloud Engineer | **AWS Certified Cloud Practitioner** | Terraform | Docker | Python | SQL
+
+💼 I design scalable, automated, and cost-efficient cloud infrastructures for real-world projects.
 
 ---
 
-### 🧠 Technical Focus
-- ☁️ **Cloud Computing (AWS):** EC2, S3, IAM, RDS, CloudWatch  
-- 🧩 **Infrastructure as Code:** Terraform, AWS CDK  
-- 🐳 **Containers & DevOps:** Docker, CI/CD fundamentals  
-- 🐍 **Programming:** Python for automation and data handling  
-- 💾 **Databases:** SQL / SQLite  
-- 💻 **Systems:** Linux CLI
+## 🧠 Technical Focus
+
+- **Cloud Computing (AWS):** EC2, S3, IAM, RDS, CloudWatch
+- **Infrastructure as Code:** Terraform, AWS CDK
+- **Containers & DevOps:** Docker, Docker Compose, CI/CD fundamentals
+- **Programming & Automation:** Python (scripting, data handling)
+- **Databases:** SQL / PostgreSQL / SQLite
+- **Systems:** Linux CLI, Bash scripting
 
 ---
 
-<p align="center">
-⚙️ Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
-</p>
+## 🚀 Key Projects
 
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| sample-flask-quotes-webapp | Production-ready Flask app deployed on AWS EC2 with Terraform + Docker Compose | AWS, Terraform, Docker, Flask, PostgreSQL |
+| AWS_grocery_v2 | Full-stack grocery management app with automated AWS deployment | AWS, Terraform, Python, Flask, PostgreSQL |
+| project_ai_mern_image_generation | AI-powered image generation app (MidJourney / DALL·E clone) | MERN, Node.js, MongoDB, React |
 
 ---
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MisaelTox&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=MisaelTox&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-</p>
+## ⭐ What I Bring to the Table
+
+- End-to-end cloud automation: from provisioning to deployment
+- Infrastructure as Code expertise for reproducible environments
+- Ability to design, deploy, and maintain multi-service applications
+- Focus on scalability, reliability, and cost-efficiency
+- Hands-on experience with containerized environments and orchestration
 
 ---
 
-### 🌐 Connect with Me
-<p align="left">
-  </a>
-  &nbsp;
-  <a href="mailto:misaeltoxcatl@gmail.com" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="email" height="30" width="30" />
-  </a>
-</p>
+## 🏷️ Tech Stack & Certifications
+
+[![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com/) 
+[![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)](https://aws.amazon.com/certification/) 
+[![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)](https://www.terraform.io/) 
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/) 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
+[![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) 
 
 ---
 
-<p align="center">
-  <em>“Infrastructure as Code isn’t just automation — it’s reproducibility, reliability, and learning in motion.”</em>
-</p>
+## 🌐 Connect with Me
+
+- 📧 [misaeltoxcatl@gmail.com](mailto:misaeltoxcatl@gmail.com)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/misael-tox/)  
+- 🐙 [GitHub](https://github.com/MisaelTox)
+
+> “Infrastructure as Code isn’t just automation — it’s reproducibility, reliability, and learning in motion.”
