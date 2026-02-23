@@ -11,7 +11,7 @@
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
 | **[Uptime Kuma Cloud](https://github.com/MisaelTox/uptime-kuma)** | **Serverless monitoring system** with persistent storage and email alerts. | **AWS Fargate, EFS, SNS**, Terraform, VPC |
-| **[Minecraft Server AWS](https://github.com/MisaelTox/minecraft-server-aws)** | **One-click serverless gaming server** with automatic world persistence. | **AWS Fargate, EFS**, Terraform, Docker |
+| **[Minecraft Server AWS](https://github.com/MisaelTox/minecraft-server-aws-ecs-fargate)** | **One-click serverless gaming server** with automatic world persistence. | **AWS Fargate, EFS**, Terraform, Docker |
 | **[Grocery App V2](https://github.com/MisaelTox/AWS_grocery_v2)** | Full-stack management app with automated AWS deployment. | AWS, Terraform, Python, PostgreSQL |
 | **[Flask Quotes WebApp](https://github.com/MisaelTox/sample-flask-quotes-webapp)** | Production-ready app deployed on EC2 with Docker Compose. | AWS, Terraform, Docker, Flask |
 
