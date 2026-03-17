@@ -1,60 +1,54 @@
-# ☁️ Hi, I'm Misael — Junior Cloud Engineer
+# ☁️ Hi, I'm Misael — Cloud Engineer
 
-**Sociology Graduate 🎓 → Cloud Engineer 🚀**  
-*Specializing in Infrastructure as Code, CI/CD Pipelines, Serverless Architectures, and Container Orchestration on AWS.*
+**Sociology Graduate  → Cloud Architect **
+*Specializing in Infrastructure as Code (Terraform), Serverless Architectures, and Container Orchestration.*
 
----
-
-### 💼 What I Do
-
-I design and automate cloud infrastructure using **Terraform** and **AWS**, and build **CI/CD pipelines** with **GitHub Actions** that validate, test, and deploy automatically — with manual approval gates before any production change.
+📍 Hamburg, Germany — Open to junior Cloud / DevOps roles
 
 ---
 
-### 🚀 Cloud Portfolio
+### 🚀 Featured Projects
 
-| Project | Stack | CI/CD |
-|---------|-------|-------|
-| **[Minecraft Server AWS](https://github.com/MisaelTox/minecraft-server-aws-ecs-fargate)** — Serverless game server with EFS persistence | Terraform · ECS Fargate | ![CI](https://github.com/MisaelTox/minecraft-server-aws-ecs-fargate/actions/workflows/terraform.yml/badge.svg?branch=main&event=push) |
-| **[Uptime Kuma Cloud](https://github.com/MisaelTox/uptime-kuma)** — Monitoring tool with SNS alerts | Node.js · Terraform · ECS Fargate | ![CI](https://github.com/MisaelTox/uptime-kuma/actions/workflows/ci-cd.yml/badge.svg?branch=main&event=push) |
-| **[Kavita Cloud Vault](https://github.com/MisaelTox/kavita-cloud-vault)** — Serverless manga reader with shared EFS | Terraform · ECS Fargate | ![CI](https://github.com/MisaelTox/kavita-cloud-vault/actions/workflows/terraform.yml/badge.svg?branch=main&event=push) |
-| **[HexGL](https://github.com/MisaelTox/HexGL)** — HTML5 racing game live on AWS S3 · [🎮 Play](http://misael-hexgl-portfolio-2026.s3-website.eu-north-1.amazonaws.com) | Terraform · S3 | ![CI](https://github.com/MisaelTox/HexGL/actions/workflows/ci-cd.yml/badge.svg?branch=master&event=push) |
-| **[MERN AI Image Generation](https://github.com/MisaelTox/project_ai_mern_image_generation)** — 3-tier DALL-E clone on EC2 | MERN · Terraform · Docker Compose | ![CI](https://github.com/MisaelTox/project_ai_mern_image_generation/actions/workflows/ci-cd.yml/badge.svg?branch=main&event=push) |
-| **[Flask Quotes App](https://github.com/MisaelTox/sample-flask-quotes-webapp)** — Flask + PostgreSQL on EC2 | Python · Terraform · Docker | ![CI](https://github.com/MisaelTox/sample-flask-quotes-webapp/actions/workflows/ci-cd.yml/badge.svg?branch=main&event=push) |
-| **[GroceryMate AWS](https://github.com/MisaelTox/AWS_grocery_v2)** — E-commerce platform with RDS, S3, CloudWatch | Flask · Terraform Modular · RDS | ![CI](https://github.com/MisaelTox/AWS_grocery_v2/actions/workflows/ci-cd.yml/badge.svg?branch=version2&event=push) |
+#### 🛒 [GroceryMate AWS](https://github.com/MisaelTox/AWS_grocery_v2)
+Final project of the Cloud Engineering Program. Modular Terraform deployment of a Flask e-commerce app with RDS PostgreSQL, S3 static storage, CloudWatch centralized logging, and IAM least-privilege roles.
+`AWS EC2` `RDS PostgreSQL` `S3` `CloudWatch` `IAM` `Terraform (Modular)` `Docker`
 
----
+#### 📊 [Uptime Kuma Cloud](https://github.com/MisaelTox/uptime-kuma)
+Production-ready serverless monitoring stack. Features EFS persistence, SNS email alerts, S3 remote state with file locking, and a GitHub Actions pipeline that validates Terraform on every push.
+`AWS Fargate` `EFS` `SNS` `S3 Remote State` `Terraform` `GitHub Actions`
 
-### 🧠 Technical Stack
+#### 📚 [Kavita Cloud Vault](https://github.com/MisaelTox/kavita-cloud-vault)
+Serverless manga reader with two Fargate services sharing a single EFS volume. CI/CD pipeline with a manual approval gate before every production deploy.
+`AWS Fargate` `EFS` `Terraform` `GitHub Actions`
 
-**Cloud & IaC**
-![AWS](https://img.shields.io/badge/AWS-orange?logo=amazon-aws&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-
-**CI/CD & Automation**
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnu-bash&logoColor=white)
-
-**Languages**
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![HCL](https://img.shields.io/badge/HCL-7B42BC?logo=terraform&logoColor=white)
-
-**AWS Services**
-`ECS Fargate` `EC2` `RDS` `S3` `EFS` `VPC` `IAM` `CloudWatch` `SNS` `ECR`
+[→ See all projects](https://github.com/MisaelTox?tab=repositories)
 
 ---
 
-### 🏷️ Certifications
+### 🧠 Technical Core
 
-![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-orange?style=flat-square&logo=amazon-aws)
+* **IaC:** Terraform — modular architecture, remote S3 state, `user_data` bootstrapping.
+* **Compute & Orchestration:** AWS ECS Fargate, EC2, Docker, Docker Compose.
+* **Storage & Databases:** EFS, S3, RDS PostgreSQL, MongoDB Atlas.
+* **Networking & Security:** VPC, Subnets, IGW, Security Groups (least privilege), IAM.
+* **Observability:** CloudWatch Logs, CloudWatch Alarms, SNS alerts.
+* **CI/CD:** GitHub Actions — fmt, validate, plan, apply with manual approval.
+* **Languages:** Python, Bash, HCL.
+
+---
+
+### 🏷️ Certifications & Tools
+
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-orange?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/)
+[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 
 ---
 
 ### 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-misael--tox-blue?logo=linkedin)](https://www.linkedin.com/in/misael-tox/)
-[![Email](https://img.shields.io/badge/Email-misaeltoxcatl@gmail.com-red?logo=gmail)](mailto:misaeltoxcatl@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/misael-tox/) | [Email](mailto:misaeltoxcatl@gmail.com)
 
 > *"Infrastructure as Code isn't just automation — it's reproducibility, reliability, and learning in motion."*
+
