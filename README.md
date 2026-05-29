@@ -16,7 +16,7 @@ I design and deploy scalable cloud infrastructure using AWS, Terraform, and Kube
 | Project | What I built | Stack |
 |---|---|---|
 | **[Uptime Kuma Cloud](https://github.com/MisaelTox/uptime-kuma)** | 4 deployment strategies: ECS Fargate + EFS + SNS, raw K8s manifests, custom Helm chart, and a live EKS cluster on AWS | Terraform · EKS · Helm · Fargate · EFS · SNS |
-| **[Flask Quotes App](https://github.com/MisaelTox/sample-flask-quotes-webapp)** | Containerized Python app with StatefulSet (PostgreSQL), initContainer, HPA, and Ingress on Kubernetes | Python · Docker · Kubernetes · PostgreSQL |
+| [Flask Quotes App](https://github.com/MisaelTox/sample-flask-quotes-webapp) | Dockerized Flask + PostgreSQL app on AWS EC2 with Terraform IaC and GitHub Actions CI/CD — parallel validation with manual approval gate | Python · Docker · Terraform · EC2 · GitHub Actions |
 | **[Minecraft Server AWS](https://github.com/MisaelTox/minecraft-server-aws-ecs-fargate)** | Cost-optimized deployment using Fargate Spot with automated world persistence | Terraform · ECS · Docker |
 | **[Kavita Cloud Vault](https://github.com/MisaelTox/kavita-cloud-vault)** | Serverless manga reader with EFS persistent storage, fully IaC | Terraform · Fargate · EFS |
 | **[AI Image Generation](https://github.com/MisaelTox/project_ai_mern_image_generation)** | MERN stack app deployed on AWS with custom Security Groups and container orchestration | Terraform · Docker · EC2 |
