@@ -42,7 +42,7 @@ I design and deploy scalable cloud infrastructure using AWS, Terraform, and Kube
 
 ### 🏷️ Certifications
 
-[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-orange?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/certification/)
+[![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-orange?style=flat-square&logo=amazon-aws)](https://www.credly.com/badges/51a69ecd-1546-4faf-947e-1a2b809a0c44/public_url)
 
 ---
 
