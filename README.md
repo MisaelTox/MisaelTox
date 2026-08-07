@@ -7,7 +7,7 @@
 
 ### 💼 What I do
 
-I design and deploy scalable cloud infrastructure using AWS, Terraform, and Kubernetes. My focus is on **reproducibility** — every environment I build can be destroyed and recreated from code alone.
+I design and deploy scalable cloud infrastructure using AWS, Terraform, and Kubernetes. My focus is on **reproducibility** — every environment I build can be destroyed and recreated from code alone. All my featured projects ship with green CI pipelines on GitHub Actions.
 
 ---
 
@@ -15,11 +15,13 @@ I design and deploy scalable cloud infrastructure using AWS, Terraform, and Kube
 
 | Project | What I built | Stack |
 |---|---|---|
-| **[Uptime Kuma Cloud](https://github.com/MisaelTox/uptime-kuma)** | 4 deployment strategies: ECS Fargate + EFS + SNS, raw K8s manifests, custom Helm chart, and a live EKS cluster on AWS | Terraform · EKS · Helm · Fargate · EFS · SNS |
-| [Flask Quotes App](https://github.com/MisaelTox/sample-flask-quotes-webapp) | Dockerized Flask + PostgreSQL app on AWS EC2 with Terraform IaC and GitHub Actions CI/CD — parallel validation with manual approval gate | Python · Docker · Terraform · EC2 · GitHub Actions |
+| **[Tanuki](https://github.com/MisaelTox/tanuki)** | Anime/manga tracker with 4 Node.js microservices, Helm umbrella chart (7 subcharts), NGINX Ingress, Redis cache, and a per-service CI matrix | Kubernetes · Helm · Fastify · PostgreSQL · Redis · GitHub Actions |
+| **[Uptime Kuma Cloud](https://github.com/MisaelTox/uptime-kuma)** | 4 deployment strategies: ECS Fargate + EFS + SNS, raw K8s manifests, custom Helm chart, and EKS cluster provisioning with Terraform | Terraform · EKS · Helm · Fargate · EFS · SNS |
+| **[Vault](https://github.com/MisaelTox/Vault)** | Full-stack game discovery app — EC2, Docker Compose, Nginx reverse proxy, and GitHub Actions CI/CD pipeline | Terraform · Docker · EC2 · GitHub Actions |
+| **[Flask Quotes App](https://github.com/MisaelTox/sample-flask-quotes-webapp)** | Dockerized Flask + PostgreSQL app on AWS EC2 with Terraform IaC and GitHub Actions CI/CD — parallel validation with manual approval gate | Python · Docker · Terraform · EC2 · GitHub Actions |
 | **[Minecraft Server AWS](https://github.com/MisaelTox/minecraft-server-aws-ecs-fargate)** | Cost-optimized deployment using Fargate Spot with automated world persistence | Terraform · ECS · Docker |
 | **[Kavita Cloud Vault](https://github.com/MisaelTox/kavita-cloud-vault)** | Serverless manga reader with EFS persistent storage, fully IaC | Terraform · Fargate · EFS |
-| **[Vault](https://github.com/MisaelTox/Vault)** | Full-stack game discovery app — EC2, Docker Compose, Nginx reverse proxy, and GitHub Actions CI/CD pipeline | Terraform · Docker · EC2 · GitHub Actions |
+
 ---
 
 ### 🧠 Technical Stack
@@ -41,10 +43,6 @@ I design and deploy scalable cloud infrastructure using AWS, Terraform, and Kube
 ### 🏷️ Certifications
 
 [![AWS Certified Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-orange?style=flat-square&logo=amazon-aws)](https://aws.amazon.com/certification/)
-[![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)](https://www.terraform.io/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)](https://kubernetes.io/)
-[![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)](https://www.docker.com/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)](https://github.com/features/actions)
 
 ---
 
@@ -53,4 +51,3 @@ I design and deploy scalable cloud infrastructure using AWS, Terraform, and Kube
 [LinkedIn](https://www.linkedin.com/in/misael-tox/) · [Email](mailto:misaeltoxcatl@gmail.com)
 
 > *"Infrastructure as Code isn't just automation — it's reproducibility, reliability, and learning in motion."*
-
