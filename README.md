@@ -1,6 +1,6 @@
 # ☁️ Hi, I'm Misael — Cloud & DevOps Engineer
 
-**Sociology Graduate 🎓 → Cloud Engineer 🚀**  
+**From Sociology 🎓 → Cloud Engineer 🚀**  
 *Infrastructure as Code · Container Orchestration · Serverless Architectures*
 
 ---
